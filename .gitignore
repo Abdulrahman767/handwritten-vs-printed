@@ -1,0 +1,18 @@
+.venv/
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Large datasets — share separately (e.g. Google Drive zip)
+data/
+data_crops/
+data_real/
+assets/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
